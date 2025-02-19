@@ -1,4 +1,12 @@
+body {
+    background: linear-gradient(to bottom, lightSalmon, white)
+}
 img {
     height: 400px;
     width: 400px;
+    border-radius: 50%;
+}
+
+H1 {
+    color: darkred;
 }
